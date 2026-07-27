@@ -1,0 +1,61 @@
+[
+  {
+    "CharacterName": "Charlottep",
+    "ItemsReceived": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 40
+      }
+    ],
+    "ItemsGiven": [],
+    "Time": "2026-07-27T13:55:49.4952262Z"
+  },
+  {
+    "CharacterName": "Angeha_ALF",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 140
+      }
+    ],
+    "Time": "2026-07-27T14:01:46.1679208Z"
+  },
+  {
+    "CharacterName": "ALF_Auraz",
+    "ItemsReceived": [
+      {
+        "Name": "Divine Life Flask",
+        "Quantity": 2
+      }
+    ],
+    "ItemsGiven": [],
+    "Time": "2026-07-27T14:41:49.2531013Z"
+  },
+  {
+    "CharacterName": "ALF_Auraz",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 5
+      }
+    ],
+    "Time": "2026-07-27T15:04:56.1991799Z"
+  },
+  {
+    "CharacterName": "ALF_Buff",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 120
+      },
+      {
+        "Name": "Divine Orb",
+        "Quantity": 19
+      }
+    ],
+    "Time": "2026-07-27T15:30:01.5596659Z"
+  }
+]
