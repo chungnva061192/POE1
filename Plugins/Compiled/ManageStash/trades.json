@@ -204,5 +204,130 @@
       }
     ],
     "Time": "2026-07-28T08:18:19.5604084Z"
+  },
+  {
+    "CharacterName": "shizukahello",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Life Flask",
+        "Quantity": 1
+      }
+    ],
+    "Time": "2026-07-28T09:13:43.3240608Z"
+  },
+  {
+    "CharacterName": "MessiShopPi",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 7
+      }
+    ],
+    "Time": "2026-07-28T10:48:51.9167672Z"
+  },
+  {
+    "CharacterName": "CARRYFOURR",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 1
+      }
+    ],
+    "Time": "2026-07-28T11:21:54.4215014Z"
+  },
+  {
+    "CharacterName": "CARRYTHREEE",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 1
+      }
+    ],
+    "Time": "2026-07-28T11:21:58.9467667Z"
+  },
+  {
+    "CharacterName": "CARRYTWOO",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 1
+      }
+    ],
+    "Time": "2026-07-28T11:22:03.0961194Z"
+  },
+  {
+    "CharacterName": "shizukahello",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 1
+      }
+    ],
+    "Time": "2026-07-28T11:22:07.5783382Z"
+  },
+  {
+    "CharacterName": "CARRYFOURR",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 1
+      }
+    ],
+    "Time": "2026-07-28T11:31:39.932508Z"
+  },
+  {
+    "CharacterName": "shizukahello",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 1
+      }
+    ],
+    "Time": "2026-07-28T11:33:57.4255764Z"
+  },
+  {
+    "CharacterName": "CARRYTWOO",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 1
+      }
+    ],
+    "Time": "2026-07-28T11:36:30.8759082Z"
+  },
+  {
+    "CharacterName": "CARRYTHREEE",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 1
+      }
+    ],
+    "Time": "2026-07-28T11:38:59.3345949Z"
+  },
+  {
+    "CharacterName": "MessiShopPi",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 9
+      },
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 240
+      }
+    ],
+    "Time": "2026-07-28T11:44:36.6166933Z"
   }
 ]
