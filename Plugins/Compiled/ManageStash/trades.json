@@ -57,5 +57,152 @@
       }
     ],
     "Time": "2026-07-27T15:30:01.5596659Z"
+  },
+  {
+    "CharacterName": "ALF_KBz",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 10
+      }
+    ],
+    "Time": "2026-07-28T01:04:34.4275706Z"
+  },
+  {
+    "CharacterName": "ALF_KBz",
+    "ItemsReceived": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 7
+      }
+    ],
+    "ItemsGiven": [],
+    "Time": "2026-07-28T01:19:56.1114204Z"
+  },
+  {
+    "CharacterName": "ALF_Auraz",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 10
+      }
+    ],
+    "Time": "2026-07-28T01:35:16.4176642Z"
+  },
+  {
+    "CharacterName": "doraemonhello",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 2
+      }
+    ],
+    "Time": "2026-07-28T04:04:46.0523738Z"
+  },
+  {
+    "CharacterName": "nobitahello",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 2
+      }
+    ],
+    "Time": "2026-07-28T04:15:08.6675059Z"
+  },
+  {
+    "CharacterName": "vedmingrozdk",
+    "ItemsReceived": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 400
+      }
+    ],
+    "ItemsGiven": [],
+    "Time": "2026-07-28T04:31:51.2794395Z"
+  },
+  {
+    "CharacterName": "ALF_Buff",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 20
+      }
+    ],
+    "Time": "2026-07-28T06:25:00.0410541Z"
+  },
+  {
+    "CharacterName": "TiktokShopi",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 420
+      },
+      {
+        "Name": "Divine Orb",
+        "Quantity": 10
+      }
+    ],
+    "Time": "2026-07-28T07:16:18.5027003Z"
+  },
+  {
+    "CharacterName": "Henn_GGold",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 140
+      }
+    ],
+    "Time": "2026-07-28T07:21:33.7485352Z"
+  },
+  {
+    "CharacterName": "CotA_Yang",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 150
+      }
+    ],
+    "Time": "2026-07-28T07:27:10.2053645Z"
+  },
+  {
+    "CharacterName": "Oxide_Gazik",
+    "ItemsReceived": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 160
+      }
+    ],
+    "ItemsGiven": [],
+    "Time": "2026-07-28T08:12:13.6338675Z"
+  },
+  {
+    "CharacterName": "Clementinea",
+    "ItemsReceived": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 90
+      }
+    ],
+    "ItemsGiven": [],
+    "Time": "2026-07-28T08:14:48.7127383Z"
+  },
+  {
+    "CharacterName": "doraemonhello",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Summon Chaos Golem",
+        "Quantity": 1
+      }
+    ],
+    "Time": "2026-07-28T08:18:19.5604084Z"
   }
 ]
