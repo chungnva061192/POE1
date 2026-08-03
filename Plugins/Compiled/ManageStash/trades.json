@@ -403,5 +403,153 @@
     ],
     "ItemsGiven": [],
     "Time": "2026-07-30T03:07:23.4020055Z"
+  },
+  {
+    "CharacterName": "AshuraAllFlame",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 2
+      }
+    ],
+    "Time": "2026-07-30T17:16:39.4746602Z"
+  },
+  {
+    "CharacterName": "LaZaDaTop",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 10
+      }
+    ],
+    "Time": "2026-07-30T17:51:24.1025295Z"
+  },
+  {
+    "CharacterName": "LaZaDaTop",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 600
+      }
+    ],
+    "Time": "2026-07-30T17:53:17.6272831Z"
+  },
+  {
+    "CharacterName": "FLM_Buff",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 680
+      },
+      {
+        "Name": "Divine Orb",
+        "Quantity": 10
+      }
+    ],
+    "Time": "2026-07-31T12:49:49.1570719Z"
+  },
+  {
+    "CharacterName": "FLM_Buff",
+    "ItemsReceived": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 10
+      }
+    ],
+    "ItemsGiven": [],
+    "Time": "2026-07-31T13:54:38.747066Z"
+  },
+  {
+    "CharacterName": "FLM_Buff",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 5
+      }
+    ],
+    "Time": "2026-07-31T14:13:17.2181137Z"
+  },
+  {
+    "CharacterName": "XaKuTaRaz",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 6
+      },
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 109
+      }
+    ],
+    "Time": "2026-08-01T15:23:53.9475133Z"
+  },
+  {
+    "CharacterName": "Flame_Timeless",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 869
+      },
+      {
+        "Name": "Divine Orb",
+        "Quantity": 5
+      }
+    ],
+    "Time": "2026-08-02T04:22:01.2478043Z"
+  },
+  {
+    "CharacterName": "AlaCa",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 400
+      }
+    ],
+    "Time": "2026-08-02T06:43:26.4811685Z"
+  },
+  {
+    "CharacterName": "BonPinPinN",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 400
+      }
+    ],
+    "Time": "2026-08-02T06:46:19.4406451Z"
+  },
+  {
+    "CharacterName": "Flame_Aurasz",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 864
+      },
+      {
+        "Name": "Divine Orb",
+        "Quantity": 6
+      }
+    ],
+    "Time": "2026-08-02T09:24:27.8541786Z"
+  },
+  {
+    "CharacterName": "Flame_Aurasz",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Chaos Orb",
+        "Quantity": 62
+      }
+    ],
+    "Time": "2026-08-02T09:25:48.4324991Z"
   }
 ]
