@@ -628,5 +628,87 @@
       }
     ],
     "Time": "2026-08-12T14:19:17.9839374Z"
+  },
+  {
+    "CharacterName": "ALF_Auraz",
+    "ItemsReceived": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 50
+      }
+    ],
+    "ItemsGiven": [],
+    "Time": "2026-08-13T12:01:09.9001963Z"
+  },
+  {
+    "CharacterName": "flame_ovo",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 8
+      }
+    ],
+    "Time": "2026-08-13T12:54:33.4368031Z"
+  },
+  {
+    "CharacterName": "ChayActTot",
+    "ItemsReceived": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 17
+      }
+    ],
+    "ItemsGiven": [],
+    "Time": "2026-08-13T14:37:38.0777035Z"
+  },
+  {
+    "CharacterName": "LeisaBreaux",
+    "ItemsReceived": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 80
+      }
+    ],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 1
+      }
+    ],
+    "Time": "2026-08-13T14:38:52.6377962Z"
+  },
+  {
+    "CharacterName": "TiktokShopi",
+    "ItemsReceived": [
+      {
+        "Name": "Divine Orb",
+        "Quantity": 280
+      }
+    ],
+    "ItemsGiven": [],
+    "Time": "2026-08-14T12:44:52.1392125Z"
+  },
+  {
+    "CharacterName": "ProNeverFake",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 2
+      }
+    ],
+    "Time": "2026-08-14T13:12:32.8680251Z"
+  },
+  {
+    "CharacterName": "CARRYFOURRRR",
+    "ItemsReceived": [],
+    "ItemsGiven": [
+      {
+        "Name": "Divine Vessel",
+        "Quantity": 2
+      }
+    ],
+    "Time": "2026-08-14T14:21:24.4728939Z"
   }
 ]
